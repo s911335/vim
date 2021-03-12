@@ -24,6 +24,10 @@ call plug#begin('~/.vim/plugged')
    " for markdown
   Plug 'godlygeek/tabular'
   Plug 'plasticboy/vim-markdown'
+  
+  " for python
+  Plug 'davidhalter/jedi-vim'
+  
 call plug#end()
 
 "--------------
