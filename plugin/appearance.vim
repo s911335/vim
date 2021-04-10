@@ -27,7 +27,7 @@ set scrolloff=3
 "--------------
 " Tab and space
 "--------------
-set softtabstop=2
+set softtabstop=4
 set shiftwidth=4
 set expandtab
 
